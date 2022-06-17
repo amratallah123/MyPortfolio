@@ -1,0 +1,14 @@
+C:\Users\amrat\source\repos\MyPortfolio\Core1\bin\Debug\net6.0\Core.deps.json
+C:\Users\amrat\source\repos\MyPortfolio\Core1\bin\Debug\net6.0\Core.runtimeconfig.json
+C:\Users\amrat\source\repos\MyPortfolio\Core1\bin\Debug\net6.0\Core.dll
+C:\Users\amrat\source\repos\MyPortfolio\Core1\bin\Debug\net6.0\Core.pdb
+C:\Users\amrat\source\repos\MyPortfolio\Core1\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\amrat\source\repos\MyPortfolio\Core1\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amrat\source\repos\MyPortfolio\Core1\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\amrat\source\repos\MyPortfolio\Core1\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\amrat\source\repos\MyPortfolio\Core1\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\amrat\source\repos\MyPortfolio\Core1\obj\Debug\net6.0\Core.dll
+C:\Users\amrat\source\repos\MyPortfolio\Core1\obj\Debug\net6.0\refint\Core.dll
+C:\Users\amrat\source\repos\MyPortfolio\Core1\obj\Debug\net6.0\Core.pdb
+C:\Users\amrat\source\repos\MyPortfolio\Core1\obj\Debug\net6.0\Core.genruntimeconfig.cache
+C:\Users\amrat\source\repos\MyPortfolio\Core1\obj\Debug\net6.0\ref\Core.dll
